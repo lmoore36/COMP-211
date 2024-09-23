@@ -8,5 +8,5 @@
 	path = lab-02-lmoore36
 	url = https://github.com/Comp211-FA24/lab-02-lmoore36.git
 [submodule "learncli211"]
-    path = learncli211
-    url = https://github.com/comp211/learncli211.git
+	path = learncli211
+	url = https://github.com/comp211/learncli211.git
